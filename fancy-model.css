@@ -23,7 +23,7 @@ body {
 }
 
 .show {
-  display: flex !important;  /* Override display:block with flex */
+  display: flex; 
   align-items: center;
   justify-content: center;
 }
